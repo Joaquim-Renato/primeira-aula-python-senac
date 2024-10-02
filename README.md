@@ -8,7 +8,6 @@ Certifique-se de ter os seguintes requisitos instalados:
 
 - Python 3.8 ou superior
 - pip (gerenciador de pacotes do Python)
-- Virtualenv (opcional, mas recomendado)
 
 ## Passos para iniciar
 
